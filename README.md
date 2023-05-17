@@ -1,2 +1,2 @@
-# the-hero-game
+# The Hero Game
 eMAG Hero game
